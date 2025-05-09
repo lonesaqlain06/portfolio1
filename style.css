@@ -1,0 +1,139 @@
+.nav a {
+    text-align: center;
+    position: relative;
+    top: 30px;
+    left: 45%;
+    padding: 5px 20px;
+    text-decoration: none;
+    color: rgb(205, 194, 224);
+    font-size: 30px;
+    margin-right: 50px;
+    border: 3px solid#839e3a;
+    border-radius: 50px;
+    background: transparent;
+}
+
+.social a {
+    position: relative;
+    top: 20px;
+    left: 70%;
+    color: rgb(136, 121, 180);
+    font-size: 20px;
+    background: transparent;
+
+    margin-right: 70px;
+}
+
+
+.nav a:hover {
+    color: rgb(17, 80, 9);
+}
+
+hr {
+    position: relative;
+    top: 75px;
+}
+
+.social a:hover {
+    color: rgb(78, 156, 26);
+}
+
+.btn a {
+    text-decoration: none;
+    background-color: rgb(255, 157, 0);
+
+    padding: 10px 20px;
+    margin-right: 70px;
+    position: relative;
+    left: 40%;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    border: 1px solid white;
+}
+
+.education td,
+.education th {
+    border: 0px solid rgb(197, 156, 156);
+
+    text-align: center;
+    padding: 20px;
+    border-spacing: 20px;
+
+}
+
+.education td {
+    font-size: 30px;
+    border: 1px solid rgb(232, 236, 232);
+    color: rgb(2, 45, 82);
+
+
+
+}
+
+
+
+
+
+
+.education th {
+    font-size: 40px;
+    background-color: transparent;
+
+    position: relative;
+    left: 35%;
+    font-variant: small-caps;
+    color: green;
+    width: 200px;
+    height: 100%;
+
+}
+
+td p {
+    color: rgb(75, 61, 0);
+    font: 1em sans-serif;
+    font-variant: small-caps;
+    font-weight: bold;
+
+}
+
+table {
+    height: 60%;
+    width: 20%;
+    position: relative;
+    top: 100px;
+    left: 50px;
+    border-spacing: 20px;
+}
+
+.skill td,
+.skill th {
+    position: relative;
+    left: 900px;
+    bottom: 480px;
+    text-align: center;
+    padding: 20px;
+    border-spacing: 20px;
+
+}
+
+.skill td {
+    border: 1px solid rgb(255, 255, 255);
+    font-size: 30px;
+
+}
+
+.skill {
+    width: 20%;
+    height: 60%;
+    text-align: center;
+}
+
+.skill th {
+    font-size: 40px;
+    background-color: transparent;
+    font-variant: small-caps;
+    color: green;
+}
+td{
+    background-color: rgb(151, 151, 13);
+}
